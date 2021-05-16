@@ -41,6 +41,7 @@ int main()
     cout << "Responda as perguntas a seguir com SIM / NAO" << '\n';
     cout << '\n';
 
+    //entradas e condições para as respostas iguais a "sim"
     cout << "pergunta 1: ";
     cin >> resposta1; 
         if ((resposta1 == "SIM") || (resposta1 == "sim") || (resposta1 == "Sim"))
@@ -76,6 +77,7 @@ int main()
             contador++;
         }
 
+    //Condição para cada valor do contador
     switch (contador)
     {
     case 2:

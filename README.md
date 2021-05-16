@@ -1,5 +1,5 @@
 # Exercicio Assasino
- Exercicio 1:
+ Exercicio de quem é o culpado:
 
  Um terrível assassinato aconteceu na última noite, faça um programa para ajudar os investigadores a encontrar o culpado. Seu programa deve ler do dispositivo de entrada padrão o nome de 3 suspeitos e as respostas para cinco perguntas que um determinado detetive constatou em sua investigação. As respostas para as perguntas são apenas as palavras sim ou nao. Cada dado de entrada será fornecido em uma linha diferente. As perguntas são:
 
